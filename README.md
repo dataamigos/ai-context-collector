@@ -6,6 +6,22 @@ A zero-dependency Python script that collects all your AI coding assistant conte
 
 ---
 
+## Get the Script
+
+**Windows (Command Prompt or PowerShell):**
+```cmd
+curl -L https://raw.githubusercontent.com/dataamigos/ai-context-collector/master/collect_ai_context.py -o collect_ai_context.py
+```
+
+**Mac / Linux (Terminal):**
+```bash
+curl -sL https://raw.githubusercontent.com/dataamigos/ai-context-collector/master/collect_ai_context.py -o collect_ai_context.py
+```
+
+Or just **download directly**: [collect_ai_context.py](https://raw.githubusercontent.com/dataamigos/ai-context-collector/master/collect_ai_context.py) → right-click → Save As
+
+---
+
 ## Features
 
 - Collects `CLAUDE.md`, `.cursorrules`, `.cursor/rules/`, `MEMORY.md`, `README.md`, `requirements.txt`, `pyproject.toml`, `Dockerfile`, and more
