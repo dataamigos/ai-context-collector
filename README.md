@@ -2,7 +2,7 @@
 
 A zero-dependency Python script that collects all your AI coding assistant context files — from Claude Code, Cursor, Aider, Continue, GitHub Copilot, and more — and packages them into a single ZIP bundle ready to paste into **ChatGPT**, **OpenAI Codex**, or any other LLM.
 
-**Use case:** Hit Claude Code or Cursor API rate limits? Export your full project context and skill instructions, then continue working in ChatGPT/Codex with full context parity. Without wasting tokens.
+**Use case:** Hit Claude Code or Cursor API rate limits? Export your full project context and skill instructions, then continue working in ChatGPT/Codex with full context parity. Without wasting tokens for context regeneration.
 
 ---
 
